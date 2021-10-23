@@ -1,5 +1,5 @@
 # not-to-do-list
->my first vue.js project
+my first vue.js project
 
 ## Project setup
 ```
